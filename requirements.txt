@@ -1,0 +1,14 @@
+asgiref==3.6.0
+cryptography==39.0.2
+Django==4.1.7
+djangorestframework-simplejwt==5.2.2
+djangorestframework==3.14.0
+Pillow==9.4.0
+pip==23.0.1
+psycopg2==2.9.5
+pycparser==2.21
+PyJWT==2.6.0
+pytz==2022.7.1
+setuptools==67.2.0
+sqlparse==0.4.3
+wheel==0.38.4

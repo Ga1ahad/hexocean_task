@@ -1,0 +1,9 @@
+project_secrets.py
+*secrets.py
+README.md
+**/__pycache__/
+.idea/
+# Compiled Python bytecode
+*.py[cod]
+# Python virtual enviroment
+venv*/
